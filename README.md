@@ -27,7 +27,7 @@ The project is built using vanilla HTML, CSS, and JavaScript, featuring:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KoustavDeveloper/virtual-popit.git
+git clone https://github.com/KoustavDevelops/virtual-popit.git
 ```
 
 2. Open `index.html` in your web browser
